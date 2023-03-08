@@ -1,0 +1,56 @@
+.login-form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 500px;
+  background-image: url("https://tse1.mm.bing.net/th?id=OIP.3uVyXR4sNu19UKOt5JhOTgHaJ4&pid=Api&P=0");
+  width: 100%;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  margin: 40px auto;
+  padding: 5px;
+  box-shadow: 0 16px 16px rgb(205, 188, 188);
+  }
+  
+  
+  .login-label{
+  margin-top: 20px;
+  color: rgb(255, 255, 255);
+  font-size:larger;
+  }
+  
+  
+  .login-button{
+  margin-top: 25px;
+  }
+  
+  
+  .login-input {
+  margin: 10px auto;
+  width: 50%;
+  height: 20px;
+  background-image: url("https://th.bing.com/th/id/OIP.GgytIbYuBlvsFMGNO3a5lwHaEo?pid=ImgDet&rs=1");
+  box-shadow: 0 8px 8px #bab4b4;
+
+  border-radius: 20%;
+  size: 200%;
+  }
+  
+  
+.login-button {
+  color: #fff;
+  background-color: #130f40;
+  padding: 10px 35px;
+  margin: 20px auto;
+  display: block;
+  border-radius: 5px;
+  border: 0;
+  cursor: pointer;
+  box-shadow:0 6px 6px #6190E8;
+}
+
+.login-label,.login-input
+{
+  background-image: url("https://www.bing.com/images/search?view=detailV2&ccid=mo5mWNPY&id=FB4BD67740E6F17542E8A240461A25505E8C7034&thid=OIP.mo5mWNPYe69xwz9Hwh4MIgHaEo&mediaurl=https%3a%2f%2fwallpapercave.com%2fwp%2fwp4016039.jpg&exph=1200&expw=1920&q=Cinema+background&simid=608031773152520873&FORM=IRPRST&ck=D29A5E84BBA00BFFBD5B7228B41A2879&selectedIndex=30")
+}
